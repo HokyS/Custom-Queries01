@@ -54,4 +54,7 @@ public class Flight {
     public void setStatus(Snippet.Status status) {
         this.status = status;
     }
+
+    public void setStatus(Status ontime) {
+    }
 }
